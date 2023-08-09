@@ -1,16 +1,22 @@
-## Hi there. I'm PlasmaVan.👋
+## Hi there! I'm PlasmaVan. 🚙
+I'm currently working on development some applications.
 
-<!--
-**dev-plasmavan/dev-plasmavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning some programming languages like C, Python and Kotlin, how to use GitHub, and Linux.
+##
 
-Here are some ideas to get you started:
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-plasmavan&show_icons=true&theme=vue-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-plasmavan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+      ※
+
+
+## My skills (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,c,python,kotlin,github,vscode,docker,discord" /> <br /><br />
+
+_I'm using pc..._ ThinkPad X270
+
+_OS..._ Windows 10 and Debian (WSL2)
+
+_I'm using tools..._ VSCode Intellij IDEA
