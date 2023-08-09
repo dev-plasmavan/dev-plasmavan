@@ -8,8 +8,6 @@ I'm currently learning some programming languages like C, Python and Kotlin, how
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-plasmavan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-      ※
-
 
 ## My skills (Programming Languages, Frameworks and Tools)
 
