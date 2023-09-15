@@ -13,8 +13,8 @@ I'm currently learning some programming languages like C, Python and Kotlin, how
 
 <img src="https://skillicons.dev/icons?i=html,css,c,python,kotlin,github,vscode,docker,discord" /> <br /><br />
 
-_I'm using pc..._ ThinkPad X270
+_Using PC..._ ThinkPad X270
 
 _OS..._ Windows 10 and Debian (WSL2)
 
-_I'm using tools..._ VSCode Intellij IDEA
+_Using tools..._ VSCode and Android Studio
