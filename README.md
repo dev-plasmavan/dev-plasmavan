@@ -15,6 +15,6 @@ I'm currently learning some programming languages like C, Python and Kotlin, how
 
 _Laptop..._ ThinkPad X270
 
-_OS..._ Windows (Debian on WSL)
+_OS..._ Windows (Ubuntu on WSL)
 
 _Tools..._ VSCode, Intellij IDEA
