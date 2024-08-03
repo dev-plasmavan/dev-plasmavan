@@ -15,6 +15,6 @@ I'm currently learning some programming languages like C, Python and Kotlin, how
 
 _Laptop..._ ThinkPad X270
 
-_OS..._ Arch Linux ( KDE Plasma )
+_OS..._ Windows OS
 
-_Tools..._ Neovim, Intellij IDEA
+_Tools..._ VSCode, Intellij IDEA
