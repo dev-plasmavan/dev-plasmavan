@@ -12,9 +12,3 @@ I'm currently learning some programming languages like C, Python and Kotlin, how
 ## My skills (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,c,python,kotlin,github,vscode,docker,discord" /> <br /><br />
-
-_Laptop..._ ThinkPad X270
-
-_OS..._ Windows OS
-
-_Tools..._ VSCode, Intellij IDEA
